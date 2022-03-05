@@ -1,0 +1,1 @@
+dotnet new mvc --auth Individual -o MyTodoApp -f net5.0    -- gera uma aplicao mvc com autenticação
